@@ -3,7 +3,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 
 # SOL-1002.25: AI Strategic Decision Web Application
-st.set_page_col_config(page_title="PRJ2042 - AI Strategic Simulator", layout="wide")
+st.set_page_config(page_title="PRJ2042 - AI Strategic Simulator", layout="wide")
 
 # عنوان الموقع الاحترافي
 st.title("🛡️ AI Strategic Decision Model & Visualizer (SOL-1002.25)")
